@@ -21,4 +21,7 @@ Enjoy
 
 Feel free to write to RMV2.editor@gmail.com, if you have questions, suggestions, anything, really. I will try and answer all.
 
+![alt text](http://url/to/img.png)
+
+
 
