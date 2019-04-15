@@ -13,6 +13,8 @@ __**phazer**:__ Origianal concept, design, all coding, some research into the fi
 
 __**Mr.Jox**:__ Very important and comprehensive original research into the file format.
 
+__**zarathos**__: 
+
 __**Frodo45127**:__ Additional rearch into the file format.
 
 Enjoy
