@@ -21,7 +21,8 @@ Enjoy
 
 Feel free to write to RMV2.editor@gmail.com, if you have questions, suggestions, anything, really. I will try and answer all.
 
-![Test](https://i.imgur.com/9Bw5pEj.jpg)
+## Here you can see the tool and how it works ##
+![](https://i.imgur.com/9Bw5pEj.jpg)
 
 
 
