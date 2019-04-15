@@ -13,3 +13,10 @@ __**phazer**:__ Origianal concept, design, all coding, some research into the fi
 
 __**Mr.Jox**:__ Very important and comprehensive original research into the file format.
 
+__**DJ.Frodo**:__ Additional rearch into the file format.
+
+Enjoy
+
+Feel free to write to RMV2.editor@gmail.com, if you have questions, suggestions, anything, really. I will try and answer all.
+
+
